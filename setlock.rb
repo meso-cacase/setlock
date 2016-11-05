@@ -1,8 +1,7 @@
 #!/usr/bin/env ruby
 # 
-# setlock.c Ruby port by Mitsutaka Okazaki 2016
-#
-# The original setlock.c can be found at https://cr.yp.to/daemontools.html
+# setlock implementation in Ruby
+# The original setlock.c is in https://cr.yp.to/daemontools.html
 #
 require 'optparse'
 
